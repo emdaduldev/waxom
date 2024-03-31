@@ -1,0 +1,48 @@
+Nam liber tempor cum soluta nobis eleifend option;
+Option congue nihil imperdiet doming id quod mazim placerat facer;
+Eodem modo typi, qui nunc nobis videntur parum futurum;
+Investigationes demonstraverunt lectores
+
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+
+
+1. display: flex;
+
+2. flex-direction: row;
+   flex-direction: row-reverse;
+   flex-direction: coloumn;
+   flex-direction: coloumn-reverse;
+
+3. flex-wrap: nowrap;
+   flex-wrap: wrap;
+   flex-wrap: wrap-reverse;
+
+4. flex-flow: (short hand of flex-direction & flex-wrap)
+
+5. jusfify-content: flex-start;  (It works in rows)
+   justify-content: flex-end;
+   justify-content: center;
+   justify-content: space-betwen;
+   justify-content: space-around;
+   justify-content: space-evenly;
+   justify-content: start;
+   justify-content: end;
+   justify-content: left;
+   justify-content: right;
+
+6. align-item: flex-start;  (It works in columns)
+   align-item: flex-end;
+   align-item: center;
+   align-item: stretch;
+   align-item: baseline;
+
+7. align-content: flex-start;  (It works in multiple lines)
+   align-content: flex-end;
+   align-content: center;
+   align-content: space-betwen;
+   align-content: space-around;
+   align-content: stretch;
+
+
